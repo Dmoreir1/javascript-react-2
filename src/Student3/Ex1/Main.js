@@ -4,7 +4,7 @@ import { DateFetcher } from './DateFetcher'
 
 export const Main = () => {
   return (
-    <div> Show me the DATE!! ().
+    <div> Show me today's DATE!!!
       <DateFetcher />
     </div>
   )
