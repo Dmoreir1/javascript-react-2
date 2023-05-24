@@ -5,5 +5,13 @@
 }
 
 body {
-    background-color: lightgray
+    background-color: lightgray;
+    font-size:x-large
 }
+
+button {
+    color: darkred;
+    background-color: linen;
+    font-size: x-large;
+}
+
