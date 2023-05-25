@@ -5,5 +5,7 @@
 }
 
 body {
-    background-color: lightgray
+    background-color: lightgray;
+    font-size: xx-large;
+    color: red;
 }
